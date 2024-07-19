@@ -1,0 +1,12 @@
+/home/dorian/Documents/codes/rust/digidist2/target/release/deps/libvst3_com-c192e15a5217efa8.rmeta: /home/dorian/.cargo/git/checkouts/vst3-sys-d94cbae274204c7a/b3ff4d7/com/src/lib.rs /home/dorian/.cargo/git/checkouts/vst3-sys-d94cbae274204c7a/b3ff4d7/com/src/ptr.rs /home/dorian/.cargo/git/checkouts/vst3-sys-d94cbae274204c7a/b3ff4d7/com/src/interfaces/mod.rs /home/dorian/.cargo/git/checkouts/vst3-sys-d94cbae274204c7a/b3ff4d7/com/src/interfaces/iunknown.rs /home/dorian/.cargo/git/checkouts/vst3-sys-d94cbae274204c7a/b3ff4d7/com/src/offset.rs /home/dorian/.cargo/git/checkouts/vst3-sys-d94cbae274204c7a/b3ff4d7/com/src/sys.rs
+
+/home/dorian/Documents/codes/rust/digidist2/target/release/deps/libvst3_com-c192e15a5217efa8.rlib: /home/dorian/.cargo/git/checkouts/vst3-sys-d94cbae274204c7a/b3ff4d7/com/src/lib.rs /home/dorian/.cargo/git/checkouts/vst3-sys-d94cbae274204c7a/b3ff4d7/com/src/ptr.rs /home/dorian/.cargo/git/checkouts/vst3-sys-d94cbae274204c7a/b3ff4d7/com/src/interfaces/mod.rs /home/dorian/.cargo/git/checkouts/vst3-sys-d94cbae274204c7a/b3ff4d7/com/src/interfaces/iunknown.rs /home/dorian/.cargo/git/checkouts/vst3-sys-d94cbae274204c7a/b3ff4d7/com/src/offset.rs /home/dorian/.cargo/git/checkouts/vst3-sys-d94cbae274204c7a/b3ff4d7/com/src/sys.rs
+
+/home/dorian/Documents/codes/rust/digidist2/target/release/deps/vst3_com-c192e15a5217efa8.d: /home/dorian/.cargo/git/checkouts/vst3-sys-d94cbae274204c7a/b3ff4d7/com/src/lib.rs /home/dorian/.cargo/git/checkouts/vst3-sys-d94cbae274204c7a/b3ff4d7/com/src/ptr.rs /home/dorian/.cargo/git/checkouts/vst3-sys-d94cbae274204c7a/b3ff4d7/com/src/interfaces/mod.rs /home/dorian/.cargo/git/checkouts/vst3-sys-d94cbae274204c7a/b3ff4d7/com/src/interfaces/iunknown.rs /home/dorian/.cargo/git/checkouts/vst3-sys-d94cbae274204c7a/b3ff4d7/com/src/offset.rs /home/dorian/.cargo/git/checkouts/vst3-sys-d94cbae274204c7a/b3ff4d7/com/src/sys.rs
+
+/home/dorian/.cargo/git/checkouts/vst3-sys-d94cbae274204c7a/b3ff4d7/com/src/lib.rs:
+/home/dorian/.cargo/git/checkouts/vst3-sys-d94cbae274204c7a/b3ff4d7/com/src/ptr.rs:
+/home/dorian/.cargo/git/checkouts/vst3-sys-d94cbae274204c7a/b3ff4d7/com/src/interfaces/mod.rs:
+/home/dorian/.cargo/git/checkouts/vst3-sys-d94cbae274204c7a/b3ff4d7/com/src/interfaces/iunknown.rs:
+/home/dorian/.cargo/git/checkouts/vst3-sys-d94cbae274204c7a/b3ff4d7/com/src/offset.rs:
+/home/dorian/.cargo/git/checkouts/vst3-sys-d94cbae274204c7a/b3ff4d7/com/src/sys.rs:
